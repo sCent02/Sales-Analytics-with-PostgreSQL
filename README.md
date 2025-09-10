@@ -19,6 +19,11 @@ It includes:
 - `run_queries.py` → Python script to execute queries from queries.sql and display results
 - `data/` → CSVs with sample data for loading
 
+
+## 📐 Database Schema (ERD)
+
+![Database Schema](image/schema_diagram.png)
+
 ---
 
 ## ⚙️ Setup & Installation
