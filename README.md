@@ -144,3 +144,29 @@ This query highlights the top-selling product categories. Businesses can use thi
 - Data manipulation with SQL
 - Business analytics queries (joins, aggregations, window functions)
 - Documentation and reproducibility
+
+
+## 📚 What I Learned
+
+Building this project helped me strengthen both my SQL and data engineering fundamentals. Some key learnings include:
+
+- **Database Design**:  
+  Learned how to design relational schemas with proper relationships (1-to-many, many-to-many) and constraints to ensure data integrity.
+
+- **SQL Querying**:  
+  Practiced writing queries for business insights, including joins, aggregations, filtering, grouping, and ordering.
+
+- **Data Modeling**:  
+  Understood how to transform raw sales data into a structured model that supports analytics and reporting.
+
+- **ETL Basics**:  
+  Gained experience creating and populating tables with schema (`schema.sql`) and insert scripts (`insert_data.sql`), similar to ETL workflows.
+
+- **Automation with Python**:  
+  Used `psycopg2` to connect to PostgreSQL and automate running multiple SQL scripts, making the process reproducible and efficient.
+
+- **Analytical Thinking**:  
+  Derived insights such as best-selling products, top customers, and sales trends — showcasing how data can support decision-making.
+
+- **Version Control & Documentation**:  
+  Improved skills in managing projects with GitHub, documenting my process with a clear README, and adding diagrams for better visualization.
